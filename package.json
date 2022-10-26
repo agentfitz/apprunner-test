@@ -1,0 +1,19 @@
+{
+  "name": "apprunner-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agentfitz/apprunner-test.git"
+  },
+  "author": "Brian Fitzy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agentfitz/apprunner-test/issues"
+  },
+  "homepage": "https://github.com/agentfitz/apprunner-test#readme"
+}

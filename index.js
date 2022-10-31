@@ -18,6 +18,8 @@ let server = http.createServer((request, response) => {
         response.write('<h1>Hello World.</h1>');
     }
 
+    response.end();
+
 });
 
 server.listen(PORT);

@@ -2,7 +2,7 @@
 import http from 'http';
 import fs from 'fs';
 
-const PORT = process.env.PORT || 3000;
+const PORT = 8080;
 
 console.log('hi, the server will be listening on port ' + PORT);
 

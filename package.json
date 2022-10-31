@@ -12,6 +12,7 @@
   },
   "author": "Brian Fitzy",
   "license": "ISC",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/agentfitz/apprunner-test/issues"
   },

@@ -9,6 +9,7 @@ console.log('hi, the server will be listening on port ' + PORT);
 let server = http.createServer((request, response) => {
 
     console.log(request.url);
+    response.setHeader('Content-Type', 'text/html');
 
     if (request.url === '/about') {
         response.write('<h1>About us.</h1>');
